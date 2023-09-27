@@ -1,0 +1,1215 @@
+.top{
+    width: 100%;
+    height: 43px;
+    background-color: black;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 182px;
+    margin-right: 182px;
+   
+}
+.div1 a{
+    color: aliceblue;
+    text-decoration: none;
+    word-spacing: 30px;
+}
+.div2 a{
+    color: aliceblue;
+    text-decoration: none;
+    word-spacing: 30px;
+    margin-right: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 114px;
+    background-color: rgb(1, 1, 58);
+    /* margin-left: 170px;
+    margin-right: 179px; */
+}
+.navblock{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.nav-list a{
+    display: flex;
+    justify-content: space-around;
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    position: relative;
+    top: 2rem;
+    right: -3rem;
+    word-spacing: 8rem;
+    
+}
+.nav-link{
+    
+    height: 42px;
+    width: 134px;
+    /* margin-left: 185px; */
+}
+.img1{
+    width: 63.75px;
+    height: 65px;
+    margin-bottom: 10px;
+    background: none;
+    
+}
+.img2{
+    width: 185.26px;
+    height: 36.58px;
+    margin-top: 15px;
+}
+/* .nav-list a{
+    display: inline-block;
+    position: relative;
+    bottom: 4rem;
+    left: 14rem;
+    word-spacing: 1px;
+    font-size: 15px;
+} */
+.register{
+    width: 139px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    top: 1rem;
+    border-radius: 10px;
+    background-color: rgb(12, 93, 199);
+} 
+#banner-img{
+    width: 100%;
+    height: 713px;
+}
+#banner-heading{
+    position: relative;
+    bottom: 35rem;
+    left: 15rem;
+    width: 800px;
+    height: 100px;
+    
+}
+
+.travel{
+    position: relative;
+    top: 54rem;
+    text-align: center;
+    color: rgb(2, 2, 22);
+}
+.blue-div1{
+    width: 315px;
+    height: 710px;
+    background-color: rgb(4, 4, 59);
+    border-radius: 10px;
+    position: relative;
+    top: 58rem;
+    left: 8.60rem;
+}
+.white{
+    width: 234px;
+    height: 63px;
+    border-bottom-right-radius: 35px;
+    background-color: aliceblue;
+}
+.price1{
+    color: rgb(223, 22, 223);
+    font-size: 48px;
+    position: relative;
+    top: 4rem;
+    left: 0.5rem;
+}
+#slace1{
+    position: relative;
+    left: 11rem;
+}
+.person1{
+    position: relative;
+    left: 12rem;
+    bottom: 2rem;
+    font-size: 25px;
+    color: aliceblue;
+}
+.benefit1{
+color: aliceblue;
+font-size: 35px;
+position: relative;
+left: 2rem;
+}
+.benefit1 a{
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 1.50rem;
+}
+.btn{
+    width: 281px;
+    height: 61px;
+    border-radius: 10px;
+    background-color: rgb(29, 123, 211);
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+    top: 3rem;
+    left: 1.50rem;
+}
+
+.blue-div2{
+    width: 315px;
+    height: 710px;
+    background-color: rgb(4, 4, 59);
+    border-radius: 10px;
+    position: relative;
+    top: 13.65rem;
+    left: 28.70rem;
+}
+.pink{
+    width: 234px;
+    height: 63px;
+    border-bottom-right-radius: 35px;
+    background-color: rgb(243, 84, 243);
+}
+.price2{
+    color: rgb(223, 22, 223);
+    font-size: 48px;
+    position: relative;
+    top: 4rem;
+    left: 0.5rem;
+}
+#slace2{
+    position: relative;
+    left: 11rem;
+}
+.person2{
+    position: relative;
+    left: 12rem;
+    bottom: 2rem;
+    font-size: 25px;
+    color: aliceblue;
+}
+.benefit2{
+color: aliceblue;
+font-size: 35px;
+position: relative;
+left: 2rem;
+}
+.benefit2 a{
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 1.50rem;
+}
+.btn2{
+    width: 281px;
+    height: 61px;
+    border-radius: 10px;
+    background-color: rgb(29, 123, 211);
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+    top: 3rem;
+    left: 1.50rem;
+}
+
+.blue-div3{
+    width: 315px;
+    height: 710px;
+    background-color: rgb(4, 4, 59);
+    border-radius: 10px;
+    position: relative;
+    bottom: 30.80rem;
+    left: 48.70rem;
+}
+.yellow{
+    width: 234px;
+    height: 63px;
+    border-bottom-right-radius: 35px;
+    background-color: yellow;
+}
+.price3{
+    color: rgb(223, 22, 223);
+    font-size: 48px;
+    position: relative;
+    top: 4rem;
+    left: 0.5rem;
+}
+#slace3{
+    position: relative;
+    left: 11rem;
+}
+.person3{
+    position: relative;
+    left: 12rem;
+    bottom: 2rem;
+    font-size: 25px;
+    color: aliceblue;
+}
+.benefit3{
+color: aliceblue;
+font-size: 35px;
+position: relative;
+left: 2rem;
+}
+.benefit3 a{
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 27px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 1.50rem;
+}
+.btn3{
+    width: 281px;
+    height: 61px;
+    border-radius: 10px;
+    background-color: rgb(29, 123, 211);
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+    top: 3rem;
+    left: 1.50rem;
+}
+
+#charm{
+    width: 1070px;
+    height: 601px;
+    position: relative;
+    bottom: 21rem;
+    left: 7rem;
+}
+ #rectangle{
+    display: flex;
+    justify-content: space-between;
+    width: 420px;
+    height: 601px;
+    position: relative;
+    bottom: 58.60rem;
+    left: 6rem;
+}
+ .special{
+    position: relative;
+    bottom: 95rem;
+    right: 22rem;
+     text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+ #vector2{
+    position: relative;
+     bottom: 99rem;
+    left: 24rem; 
+    width: 41.62px;
+    height: 46.28px;
+}
+.last{
+    position: relative;
+    bottom: 98rem;
+     /* left: 12rem;  */
+     right: 22rem;
+     text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.last1{
+    position: relative;
+    bottom: 98rem;
+    /* left: 12rem; */
+    right: 22rem;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#email{
+    position: relative;
+    bottom: 97rem;
+    left: 9rem;
+    width: 330px;
+    height: 55px;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
+#otp{
+    position: relative;
+    bottom: 96rem;
+    left: 9rem;
+    width: 330px;
+    height: 55px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#see-offer{
+    position: relative;
+    bottom: 90rem;
+    left: -12rem;
+    width: 330px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: rgb(38, 120, 228);
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 25px;
+}  
+
+.footer-div{
+    background-color: rgb(3, 3, 49) ;
+    width: 100%;
+    height: 1224px;
+    position: relative;
+    bottom: 75rem;
+}
+ #foot-vec{
+    width: 60px;
+    height: 55.61px;
+    position: relative;
+    top: 3rem;
+    left: 5rem;
+}
+ #foot-goin{
+    position: relative;
+    top: 3.80rem;
+    left: 4.60rem;
+    width: 227.72px;
+    height: 44.96px;
+}
+.top-des{
+    text-decoration: none;
+    word-spacing: 8rem;
+    position: relative;
+}
+.top-des a{
+    text-decoration: none;
+    color: aliceblue;
+    position: relative;
+    left: 33rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+.foot-lorem{
+   position: relative;
+   top: 3rem;
+   text-align: center;
+   right: 27rem;
+
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.list1 li{
+    display: inline-block;
+   position: relative;
+   left: 34rem;
+   bottom: 8rem;
+    color: aliceblue;
+}
+.list2 li{
+    display: inline-block;
+    position: relative;
+   left: 48rem;
+   bottom: 23.50rem;
+    color: aliceblue;
+}
+.list3 li{
+    display: inline-block;
+    position: relative;
+    left: 65rem;
+    bottom: 33.70rem;
+    color: aliceblue;
+}
+#master-card{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 9rem;
+    bottom: 125rem;
+}
+#visa{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 12rem;
+    bottom: 125rem;
+}
+#g-pay{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 15rem;
+    bottom: 125rem;
+}
+#paytm{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 17rem;
+    bottom: 125rem;
+}
+.dont{
+    position: relative;
+    text-align: center;
+    bottom: 120rem;
+    right: 15rem;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ #email2{
+    position: relative;
+    left: 17rem;
+    bottom: 119rem;
+    width: 609px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#Subcribe{
+    position: relative;
+    left: 17rem;
+    bottom: 119rem;
+    width: 178px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(38, 120, 228) ;
+
+} 
+#stick{
+    position: relative;
+    left: 8rem;
+    bottom: 115rem;
+    width: 1070.03px;
+    height: 2px;
+}
+#strock{
+    position: relative;
+    left: 6rem;
+    bottom: 110rem;
+    width: 46.17px;
+    height: 47.48px;
+    z-index: 1;
+}
+#elipse{
+    position: relative;
+    left: 2.40rem;
+    bottom: 110rem;
+    width: 57px;
+    height: 67px;
+}
+#black-rect{
+    position: relative;
+    bottom: 101rem;
+    width: 100%;
+    height: 79px;
+}
+.design{
+    position: relative;
+
+    text-align: center;
+    bottom: 105rem;
+    font-size: 35px;
+    color:aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}   
+
+ @media only screen and (max-width:1212px) and (min-width:1001px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+    }
+    #banner-heading{
+        width: 400px;
+    }
+    .img1{
+        width: 50px;
+        height: 50px;
+        margin-bottom: 10px;
+        margin-right: 5px;
+    }
+    .img2{
+        width: 80px;
+        height: 26px;
+        margin-top: 15px;
+    }
+    .nav-list a{
+        display: inline-block;
+        position: relative; 
+        top: 1rem;
+        left: 3rem; 
+        word-spacing: 1px;
+        font-size: 15px;
+    }
+    .blue-div1{
+        width: 280px;
+        height: 710px;
+        position: relative;
+        top: 58rem;
+        left: 4rem; 
+    }
+    .btn{
+        width: 181px;
+    height: 61px;
+    }
+
+    .blue-div2{
+        width: 280px;
+        height: 710px;
+        position: relative;
+        top: 13.70rem;
+        left: 22rem; 
+    }
+    .btn2{
+        width: 181px;
+    height: 61px;
+    }
+    .blue-div3{
+        width: 280px;
+        height: 710px;
+        position: relative;
+        bottom: 30.50rem;
+        left: 40rem; 
+    }
+    .btn3{
+        width: 181px;
+    height: 61px;
+    }
+    #charm{
+        width: 770px;
+        height: 601px;
+        position: relative;
+        right: 2rem;
+    }
+    #rectangle{
+        
+        width: 320px;
+        height: 601px;
+        position: relative;
+        bottom: 58.60rem;
+        right: 2rem;
+    }
+    .special{
+        position: relative;
+        bottom: 95rem;
+        right: 17rem;
+        font-size: 20px;
+       
+    }
+     #vector2{
+        position: relative;
+         bottom: 97.60rem;
+        left: 19rem; 
+        width: 28px;
+        height: 26px;
+    }
+    .last{
+        position: relative;
+        bottom: 97rem;
+         right: 16.80rem;
+        font-size: 20px;
+        
+    }
+    .last1{
+        position: relative;
+        bottom: 97rem;
+        right: 17rem;
+        font-size: 15px;
+        
+    }
+    #email{
+        position: relative;
+        bottom: 95rem;
+        left: 9rem;
+        width: 230px;
+        height: 55px;
+        font-size: 18px;
+        
+    }
+    #otp{
+        position: relative;
+        bottom: 92rem;
+        left: 9rem;
+        width: 230px;
+        height: 55px;
+        font-size: 18px;
+    }
+    #see-offer{
+        position: relative;
+        bottom: 86rem;
+        left: -5.70rem;
+        width: 230px;
+        height: 55px;
+        font-size: 20px;
+    }  
+    .register{
+        width: 100px;
+        height: 40px;
+        position: relative;
+        left: 9rem;
+        top: 1rem;
+        
+    }
+    
+   
+     #foot-goin{
+        position: relative;
+        top: 3.80rem;
+        left: 4.60rem;
+        width: 127px;
+        height: 44.96px;
+    }
+    .top-des{
+        text-decoration: none;
+        word-spacing: 8rem;
+        position: relative;
+        right: 8rem;
+        
+    }
+    .top-des a{
+        text-decoration: none;
+        color: aliceblue;
+        position: relative;
+        left: 33rem;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .foot-lorem{
+       position: relative;
+       top: 3rem;
+       text-align: center;
+       right: 20rem;
+        font-size: 19px;
+        
+    }
+    .list1 li{
+        display: inline-block;
+       position: relative;
+       left: 25rem;
+       bottom: 7rem;
+        color: aliceblue;
+    }
+    .list2 li{
+        display: inline-block;
+        position: relative;
+       left: 37rem;
+       bottom: 22rem;
+        color: aliceblue;
+    }
+    .list3 li{
+        display: inline-block;
+        position: relative;
+        left: 52rem;
+        bottom: 32rem;
+        color: aliceblue;
+    }
+    #master-card{
+        width: 170px;
+        height: 100px;
+        position: relative;
+        left: 6rem;
+        
+    }
+    #visa{
+        width: 170px;
+        height: 100px;
+        position: relative;
+        left: 7.60rem;
+    }
+    #g-pay{
+        width: 170px;
+        height: 100px;
+        position: relative;
+        left: 9rem;
+    }
+    #paytm{
+        width: 170px;
+        height: 100px;
+        position: relative;
+        left: 11rem;
+    }
+    .dont{
+       
+        font-size: 30px;
+        
+    }
+     #email2{
+        position: relative;
+        left: 10rem;
+        bottom: 119rem;
+        width: 409px;
+        height: 67px;
+       
+    }
+    #Subcribe{
+        position: relative;
+        left: 10rem;
+        bottom: 119rem;
+    } 
+    #stick{
+        position: relative;
+        left: 6rem;
+        bottom: 115rem;
+        width: 770px;
+        height: 2px;
+    }
+    #strock{
+        position: relative;
+        left: 1rem;
+    }
+    #elipse{
+        position: relative;
+        left: -2.70rem;
+        bottom: 110rem;
+    }
+    #black-rect{
+        position: relative;
+        bottom: 98rem;
+        width: 100%;
+        height: 70px;
+    }
+    .design{
+        position: relative;
+        text-align: center;
+        bottom: 102rem;
+        font-size: 32px;
+    }   
+}  
+
+
+@media only screen and (max-width:1000px) and (min-width:700px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+    }
+    #banner-img{
+        width: 100%;
+        height: 513px;
+    }
+    #banner-heading{
+        width: 300px;
+        padding-top: 3rem;
+        margin-top: 7rem;
+       
+    }
+    .div1 a{
+        font-size: 10px;
+    }
+    .div2 a{
+        font-size: 10px;
+    }
+    .img1{
+        width: 50px;
+        height: 50px;
+       position: relative;
+       right: 3rem;
+       top: 0.25rem;
+    }
+    .img2{
+        width: 80px;
+        height: 26px;
+        position: relative;
+        right: 3rem;
+        top: 0.90rem;
+    }
+    .nav-list a{
+        display: inline-block;
+        position: relative; 
+        top: -40px;
+        left: 7rem; 
+        word-spacing: 1px;
+        font-size: 12px;
+    }
+    .register{
+        width: 80px;
+        height: 35px;
+        position: relative;
+        left: 7rem;
+        top: 1rem;
+        
+    }
+    .travel{
+        position: relative;
+        top: 40rem;
+        font-size: 26px;
+    }
+
+    .blue-div1{
+        width: 100%;
+        height: 310px;
+        position: relative;
+        top: 44rem;
+        left: 1rem; 
+       
+    }
+    .white{
+        width: 234px;
+        height: 53px;
+        border-bottom-right-radius: 35px;
+        background-color: aliceblue;
+    }
+    .price1{
+        color: rgb(223, 22, 223);
+        font-size: 38px;
+        position: relative;
+        top: -3rem;
+        left: 18rem;
+    }
+    #slace1{
+        position: relative;
+        left: 27rem;
+        bottom: 6rem;
+        height: 50px;
+    }
+    .person1{
+        position: relative;
+        left: 29rem;
+        bottom: 9rem;
+        font-size: 25px;
+        color: aliceblue;
+    }
+    .benefit1{
+    color: aliceblue;
+    font-size: 25px;
+    position: relative;
+    left: 2rem;
+    bottom: 6rem;
+    }
+    .benefit1 a{
+        font-size: 20px;
+        position: relative;
+        
+    }
+    .btn{
+        width: 151px;
+    height: 51px;
+    position: relative;
+    top: -4rem;
+    z-index: 1;
+    font-size: 20px;
+    }
+
+
+    .blue-div2{
+        width: 100%;
+        height: 310px;
+        position: relative;
+        top: 46rem;
+        left: 1rem; 
+    }
+
+    .pink{
+        width: 234px;
+        height: 53px;
+        border-bottom-right-radius: 35px;
+        background-color: rgb(241, 82, 241);
+    }
+    .price2{
+        color: rgb(223, 22, 223);
+        font-size: 38px;
+        position: relative;
+        top: -3rem;
+        left: 18rem;
+    }
+    #slace2{
+        position: relative;
+        left: 27rem;
+        bottom: 6rem;
+        height: 50px;
+    }
+    .person2{
+        position: relative;
+        left: 29rem;
+        bottom: 9rem;
+        font-size: 25px;
+        color: aliceblue;
+    }
+    .benefit2{
+    color: aliceblue;
+    font-size: 25px;
+    position: relative;
+    left: 2rem;
+    bottom: 6rem;
+    }
+    .benefit2 a{
+        font-size: 20px;
+        position: relative;
+        
+    }
+    .btn2{
+        width: 151px;
+        height: 51px;
+        position: relative;
+        top: -4rem;
+        z-index: 1;
+        font-size: 20px;
+    }
+    .blue-div3{
+        width: 100%;
+        height: 310px;
+        position: relative;
+        top: 48rem;
+        left: 1rem; 
+    }
+    .yellow{
+        width: 234px;
+        height: 53px;
+        border-bottom-right-radius: 35px;
+        background-color: yellow;
+    }
+    .price3{
+        color: rgb(223, 22, 223);
+        font-size: 38px;
+        position: relative;
+        top: -3rem;
+        left: 18rem;
+    }
+    #slace3{
+        position: relative;
+        left: 27rem;
+        bottom: 6rem;
+        height: 50px;
+    }
+    .person3{
+        position: relative;
+        left: 29rem;
+        bottom: 9rem;
+        font-size: 25px;
+        color: aliceblue;
+    }
+    .benefit3{
+    color: aliceblue;
+    font-size: 25px;
+    position: relative;
+    left: 2rem;
+    bottom: 6rem;
+    }
+    .benefit3 a{
+        font-size: 20px;
+        position: relative;
+        
+    }
+    .btn3{
+        width: 151px;
+        height: 51px;
+        position: relative;
+        top: -4rem;
+        z-index: 1;
+        font-size: 20px;    
+    }
+    #charm{
+        width: 600px;
+        height: 501px;
+        position: relative;
+        left: 9.20rem;
+        top: 54rem;
+    }
+    #rectangle{
+        width: 320px;
+        height: 501px;
+        position: relative;
+        border-bottom-left-radius: 10px;
+        left: -0rem;
+        top: 22.60rem;
+    }
+    .special{
+        position: relative;
+        bottom: 7rem;
+        right: 15rem;
+        font-size: 20px;
+    }
+     #vector2{
+        position: relative;
+         bottom: 9.70rem;
+        left: 13rem; 
+        width: 28px;
+        height: 26px;
+    }
+    .last{
+        position: relative;
+        bottom: 9rem;
+         right: 14.60rem;
+        font-size: 20px;
+        
+    }
+    .last1{
+        position: relative;
+        bottom: 9rem;
+        right: 14rem;
+        font-size: 15px;
+        
+    }
+    #email{
+        position: relative;
+        bottom: 9rem;
+        left: 2rem;
+        width: 230px;
+        height: 50px;
+        font-size: 18px;
+        
+    }
+    #otp{
+        position: relative;
+        bottom: 8.70rem;
+        left: 2rem;
+        width: 230px;
+        height: 55px;
+        font-size: 18px;
+    }
+    #see-offer{
+        position: relative;
+        bottom: 3rem;
+        left: -12.70rem;
+        width: 230px;
+        height: 55px;
+        font-size: 20px;
+    }  
+    .footer{
+        position: relative;
+        top: 85rem;
+        
+    }
+    #foot-vec{
+        width: 60px;
+        height: 55.61px;
+        position: relative;
+        top: 3rem;
+        left: 4rem;
+    }
+     #foot-goin{
+        position: relative;
+        top: 3.80rem;
+        left: 3.40rem;
+        width: 125px;
+        height: 41px;
+    }
+    .top-des{
+        text-decoration: none;
+        word-spacing: 4rem;
+        position: relative;
+        right: 14rem;
+        
+    }
+    .top-des a{
+        text-decoration: none;
+        color: aliceblue;
+        position: relative;
+        left: 33rem;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .foot-lorem{
+       position: relative;
+       top: 3rem;
+       text-align: center;
+       right: 13rem;
+        font-size: 15px;
+        
+    }
+    .list1 li{
+        display: inline-block;
+       position: relative;
+       left: 19rem;
+       bottom: 6rem;
+        font-size: 14px;
+    }
+    .list2 li{
+        display: inline-block;
+        position: relative;
+       left: 27rem;
+       bottom: 20rem;
+        font-size: 14px;
+    }
+    .list3 li{
+        display: inline-block;
+        position: relative;
+        left: 37rem;
+        bottom: 29rem;
+        font-size: 14px;
+    }
+    #master-card{
+        width: 150px;
+        height: 90px;
+        position: relative;
+        left: 2rem;
+        
+    }
+    #visa{
+        width: 150px;
+        height: 90px;
+        position: relative;
+        left: 3rem;
+    }
+    #g-pay{
+        width: 150px;
+        height: 90px;
+        position: relative;
+        left: 4rem;
+    }
+    #paytm{
+        width: 150px;
+        height: 90px;
+        position: relative;
+        left: 5rem;
+    }
+    .dont{
+       
+        font-size: 25px;
+        
+    }
+     #email2{
+        position: relative;
+        left: 3rem;
+        bottom: 119rem;
+        width: 409px;
+        height: 67px;
+       
+    }
+    #Subcribe{
+        position: relative;
+        left: 3rem;
+        bottom: 119rem;
+    } 
+    #stick{
+        position: relative;
+        left: 2rem;
+        bottom: 115rem;
+        width: 670px;
+        height: 2px;
+    }
+    #strock{
+        position: relative;
+        left: -4rem;
+    }
+    #elipse{
+        position: relative;
+        left: 38rem;
+        bottom: 113.50rem;
+    }
+    #black-rect{
+        position: relative;
+        bottom: 98rem;
+        width: 100%;
+        height: 70px;
+    }
+    .design{
+        position: relative;
+        text-align: center;
+        bottom: 102rem;
+        font-size: 32px;
+    }   
+}  
